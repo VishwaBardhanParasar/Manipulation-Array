@@ -1,5 +1,5 @@
 # Manipulation-Array
-## In this project manupation operation perform on array.
+## In this project manipulation operation perform on array.
 
 ### Basically , As we know that once we intialized element in the array.We cannot perform manipulation operation like(Insertion , Deletion , Updation etc.) .
 ### But, In this project I designed such a way that a primitive array can be perform manipulation opeartion.
