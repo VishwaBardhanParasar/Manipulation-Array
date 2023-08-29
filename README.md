@@ -2,8 +2,8 @@
 ## In this project manipulation operation performed on the array.
 
 ### Basically , As we know that once we intialized element in the array.We cannot perform manipulation operation like(Insertion , Deletion , Updation etc.) .
-### But, In this project I designed such a way that a primitive array can be perform manipulation operation.
-#### I have add opearation as below
+### But, In this project I have designed such a way that a primitive array can be perform manipulation operation.
+#### I have added opearation as below
 ###### 1.Insertion 
 ###### 2.Deletion 
 ###### 3.Updation 
